@@ -4,8 +4,7 @@ Hi, My name is Mohamed Azarudeen
 will add something to new branch
 
 adding a line to get merge conflict
-<<<<<<< Updated upstream
+
 checking stash content
-=======
 let us check stash feature
->>>>>>> Stashed changes
+
